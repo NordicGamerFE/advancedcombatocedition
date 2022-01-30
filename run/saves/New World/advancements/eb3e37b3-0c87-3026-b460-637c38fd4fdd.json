@@ -1,0 +1,9 @@
+{
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "plains": "2022-01-30 02:39:07 +0100",
+      "taiga": "2022-01-30 02:39:30 +0100"
+    },
+    "done": false
+  }
+}

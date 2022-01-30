@@ -1,0 +1,16 @@
+[
+{
+  "modid": "advancedcombat",
+  "name": "Advanced Combat OC Edition",
+  "description": "Provides a strong bow, shield and extremely powerful swords. Also a new way to obtain high level enchantments.",
+  "version": "0.1",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["KevskyBoy"],
+  "credits": "sblectric",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

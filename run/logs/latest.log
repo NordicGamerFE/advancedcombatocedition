@@ -1,0 +1,285 @@
+[02:38:42] [main/INFO]: Extra: []
+[02:38:42] [main/INFO]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/gaupk/.gradle/caches/minecraft/assets, --assetIndex, 1.12, --accessToken{REDACTED}, --version, 1.12.2, --tweakClass, net.minecraftforge.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[02:38:42] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[02:38:42] [main/INFO]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[02:38:42] [main/INFO]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[02:38:42] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[02:38:42] [main/INFO]: Forge Mod Loader version 14.23.5.2816 for Minecraft 1.12.2 loading
+[02:38:42] [main/INFO]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_312, running on Windows 10:amd64:10.0, installed at C:\Program Files\Eclipse Adoptium\jdk-8.0.312.7-hotspot\jre
+[02:38:42] [main/ERROR]: Apache Maven library folder was not in the format expected. Using default libraries directory.
+[02:38:42] [main/ERROR]: Full: C:\Users\gaupk\.gradle\caches\modules-2\files-2.1\org.apache.maven\maven-artifact\3.5.3\7dc72b6d6d8a6dced3d294ed54c2cc3515ade9f4\maven-artifact-3.5.3.jar
+[02:38:42] [main/ERROR]: Trimmed: c:/users/gaupk/.gradle/caches/modules-2/files-2.1/org.apache.maven/maven-artifact/3.5.3/
+[02:38:42] [main/INFO]: Managed to load a deobfuscated Minecraft name- we are in a deobfuscated environment. Skipping runtime deobfuscation
+[02:38:42] [main/INFO]: Detected deobfuscated environment, loading log configs for colored console logs.
+[02:38:43] [main/INFO] [FML]: Ignoring missing certificate for coremod FMLCorePlugin (net.minecraftforge.fml.relauncher.FMLCorePlugin), we are in deobf and it's a forge core plugininecraftFormatting
+[02:38:43] [main/INFO] [FML]: Ignoring missing certificate for coremod FMLForgePlugin (net.minecraftforge.classloading.FMLForgePlugin), we are in deobf and it's a forge core plugininecraftFormatting
+[02:38:43] [main/INFO] [FML]: Searching C:\Users\gaupk\Desktop\AC\run\.\mods for modsinecraftFormatting
+[02:38:43] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.gradle.tweakers.CoremodTweakerinecraftFormatting
+[02:38:43] [main/INFO] [GradleStart]: Injecting location in coremod net.minecraftforge.fml.relauncher.FMLCorePlugininecraftFormatting
+[02:38:43] [main/INFO] [GradleStart]: Injecting location in coremod net.minecraftforge.classloading.FMLForgePlugininecraftFormatting
+[02:38:43] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweakerinecraftFormatting
+[02:38:43] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweakerinecraftFormatting
+[02:38:43] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.AccessTransformerTweakerinecraftFormatting
+[02:38:43] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweakerinecraftFormatting
+[02:38:43] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweakerinecraftFormatting
+[02:38:43] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapperinecraftFormatting
+[02:38:43] [main/ERROR] [FML]: FML appears to be missing any signature data. This is not a good thinginecraftFormatting
+[02:38:43] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapperinecraftFormatting
+[02:38:43] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweakerinecraftFormatting
+[02:38:43] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.gradle.tweakers.AccessTransformerTweakerinecraftFormatting
+[02:38:43] [main/INFO] [GradleStart]: Remapping AccessTransformer rules...inecraftFormatting
+[02:38:43] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweakerinecraftFormatting
+[02:38:43] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweakerinecraftFormatting
+[02:38:43] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.client.main.Main}inecraftFormatting
+[02:38:44] [Client thread/INFO] [net.minecraft.client.Minecraft]: Setting user: Player796inecraftFormatting
+[02:38:46] [Client thread/WARN] [net.minecraft.client.settings.GameSettings]: Skipping bad option: lastServer:inecraftFormatting
+[02:38:46] [Client thread/INFO] [net.minecraft.client.Minecraft]: LWJGL Version: 2.9.4inecraftFormatting
+[02:38:46] [Client thread/INFO] [FML]: -- System Details --
+Details:
+	Minecraft Version: 1.12.2
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 1.8.0_312, Temurin
+	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode), Temurin
+	Memory: 242260312 bytes (231 MB) / 576716800 bytes (550 MB) up to 3803185152 bytes (3627 MB)
+	JVM Flags: 0 total; 
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: 
+	Loaded coremods (and transformers): 
+	GL info: ' Vendor: 'NVIDIA Corporation' Version: '4.6.0 NVIDIA 471.11' Renderer: 'NVIDIA GeForce GTX 1060 6GB/PCIe/SSE2'inecraftFormatting
+[02:38:46] [Client thread/INFO] [FML]: MinecraftForge v14.23.5.2816 InitializedinecraftFormatting
+[02:38:46] [Client thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.inecraftFormatting
+[02:38:47] [Client thread/INFO] [FML]: Replaced 1036 ore ingredientsinecraftFormatting
+[02:38:47] [Client thread/INFO] [FML]: Searching C:\Users\gaupk\Desktop\AC\run\.\mods for modsinecraftFormatting
+[02:38:48] [Client thread/INFO] [FML]: Forge Mod Loader has identified 6 mods to loadinecraftFormatting
+[02:38:48] [Client thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, jei, advancedcombat] at CLIENTinecraftFormatting
+[02:38:48] [Client thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, jei, advancedcombat] at SERVERinecraftFormatting
+[02:38:48] [Client thread/INFO] [net.minecraft.client.resources.SimpleReloadableResourceManager]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Just Enough Items, FMLFileResourcePack:Advanced CombatinecraftFormatting
+[02:38:49] [Client thread/INFO] [FML]: Processing ObjectHolder annotationsinecraftFormatting
+[02:38:49] [Client thread/INFO] [FML]: Found 1168 ObjectHolder annotationsinecraftFormatting
+[02:38:49] [Client thread/INFO] [FML]: Identifying ItemStackHolder annotationsinecraftFormatting
+[02:38:49] [Client thread/INFO] [FML]: Found 0 ItemStackHolder annotationsinecraftFormatting
+[02:38:49] [Client thread/INFO] [FML]: Configured a dormant chunk cache size of 0inecraftFormatting
+[02:38:49] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.jsoninecraftFormatting
+[02:38:49] [Thread-3/INFO] [FML]: Using sync timing. 200 frames of Display.update took 102531100 nanosinecraftFormatting
+[02:38:49] [Client thread/INFO] [Advanced Combat]: Blocks registered.inecraftFormatting
+[02:38:49] [Client thread/INFO] [FML]: Applying holder lookupsinecraftFormatting
+[02:38:49] [Client thread/INFO] [FML]: Holder lookups appliedinecraftFormatting
+[02:38:49] [Client thread/INFO] [Advanced Combat]: Items registered.inecraftFormatting
+[02:38:49] [Client thread/INFO] [FML]: Applying holder lookupsinecraftFormatting
+[02:38:49] [Client thread/INFO] [FML]: Holder lookups appliedinecraftFormatting
+[02:38:49] [Client thread/INFO] [FML]: Applying holder lookupsinecraftFormatting
+[02:38:49] [Client thread/INFO] [FML]: Holder lookups appliedinecraftFormatting
+[02:38:49] [Client thread/INFO] [Advanced Combat]: Models registered.inecraftFormatting
+[02:38:49] [Client thread/INFO] [FML]: Applying holder lookupsinecraftFormatting
+[02:38:49] [Client thread/INFO] [FML]: Holder lookups appliedinecraftFormatting
+[02:38:49] [Client thread/INFO] [FML]: Injecting itemstacksinecraftFormatting
+[02:38:49] [Client thread/INFO] [FML]: Itemstack injection completeinecraftFormatting
+[02:38:51] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: OUTDATED Target: 14.23.5.2859inecraftFormatting
+[02:38:51] [Sound Library Loader/INFO] [net.minecraft.client.audio.SoundManager]: Starting up SoundSystem...inecraftFormatting
+[02:38:51] [Thread-5/INFO] [net.minecraft.client.audio.SoundManager]: Initializing LWJGL OpenALinecraftFormatting
+[02:38:51] [Thread-5/INFO] [net.minecraft.client.audio.SoundManager]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)inecraftFormatting
+[02:38:52] [Thread-5/INFO] [net.minecraft.client.audio.SoundManager]: OpenAL initialized.inecraftFormatting
+[02:38:52] [Sound Library Loader/INFO] [net.minecraft.client.audio.SoundManager]: Sound engine startedinecraftFormatting
+[02:38:54] [Client thread/INFO] [FML]: Max texture size: 16384inecraftFormatting
+[02:38:55] [Client thread/INFO] [net.minecraft.client.renderer.texture.TextureMap]: Created: 512x512 textures-atlasinecraftFormatting
+[02:38:56] [Client thread/INFO] [STDOUT]: [com.advancedcombat.crafting.RecipeHelper:addRecipe:24]: recipe count: 0inecraftFormatting
+[02:38:56] [Client thread/INFO] [STDOUT]: [com.advancedcombat.crafting.RecipeHelper:addRecipe:24]: recipe count: 1inecraftFormatting
+[02:38:56] [Client thread/INFO] [STDOUT]: [com.advancedcombat.crafting.RecipeHelper:addRecipe:24]: recipe count: 2inecraftFormatting
+[02:38:56] [Client thread/INFO] [STDOUT]: [com.advancedcombat.crafting.RecipeHelper:addRecipe:24]: recipe count: 3inecraftFormatting
+[02:38:56] [Client thread/INFO] [STDOUT]: [com.advancedcombat.crafting.RecipeHelper:addRecipe:24]: recipe count: 4inecraftFormatting
+[02:38:56] [Client thread/INFO] [STDOUT]: [com.advancedcombat.crafting.RecipeHelper:addRecipe:24]: recipe count: 5inecraftFormatting
+[02:38:56] [Client thread/INFO] [STDOUT]: [com.advancedcombat.crafting.RecipeHelper:addRecipe:24]: recipe count: 6inecraftFormatting
+[02:38:56] [Client thread/INFO] [STDOUT]: [com.advancedcombat.crafting.RecipeHelper:addRecipe:24]: recipe count: 7inecraftFormatting
+[02:38:56] [Client thread/INFO] [STDOUT]: [com.advancedcombat.crafting.RecipeHelper:addRecipe:24]: recipe count: 8inecraftFormatting
+[02:38:56] [Client thread/INFO] [STDOUT]: [com.advancedcombat.crafting.RecipeHelper:addRecipe:24]: recipe count: 9inecraftFormatting
+[02:38:56] [Client thread/INFO] [STDOUT]: [com.advancedcombat.crafting.RecipeHelper:addRecipe:24]: recipe count: 10inecraftFormatting
+[02:38:56] [Client thread/INFO] [STDOUT]: [com.advancedcombat.crafting.RecipeHelper:addRecipe:24]: recipe count: 11inecraftFormatting
+[02:38:56] [Client thread/INFO] [STDOUT]: [com.advancedcombat.crafting.RecipeHelper:addRecipe:24]: recipe count: 12inecraftFormatting
+[02:38:56] [Client thread/INFO] [STDOUT]: [com.advancedcombat.crafting.RecipeHelper:addRecipe:24]: recipe count: 13inecraftFormatting
+[02:38:56] [Client thread/INFO] [STDOUT]: [com.advancedcombat.crafting.RecipeHelper:addRecipe:24]: recipe count: 14inecraftFormatting
+[02:38:56] [Client thread/INFO] [STDOUT]: [com.advancedcombat.crafting.RecipeHelper:addRecipe:24]: recipe count: 15inecraftFormatting
+[02:38:56] [Client thread/INFO] [STDOUT]: [com.advancedcombat.crafting.RecipeHelper:addRecipe:24]: recipe count: 16inecraftFormatting
+[02:38:56] [Client thread/INFO] [STDOUT]: [com.advancedcombat.crafting.RecipeHelper:addRecipe:24]: recipe count: 17inecraftFormatting
+[02:38:56] [Client thread/INFO] [STDOUT]: [com.advancedcombat.crafting.RecipeHelper:addRecipe:24]: recipe count: 18inecraftFormatting
+[02:38:56] [Client thread/INFO] [STDOUT]: [com.advancedcombat.crafting.RecipeHelper:addRecipe:24]: recipe count: 19inecraftFormatting
+[02:38:56] [Client thread/INFO] [STDOUT]: [com.advancedcombat.crafting.RecipeHelper:addRecipe:24]: recipe count: 20inecraftFormatting
+[02:38:56] [Client thread/INFO] [STDOUT]: [com.advancedcombat.crafting.RecipeHelper:addRecipe:24]: recipe count: 21inecraftFormatting
+[02:38:56] [Client thread/INFO] [STDOUT]: [com.advancedcombat.crafting.RecipeHelper:addRecipe:24]: recipe count: 22inecraftFormatting
+[02:38:56] [Client thread/INFO] [STDOUT]: [com.advancedcombat.crafting.RecipeHelper:addRecipe:24]: recipe count: 23inecraftFormatting
+[02:38:56] [Client thread/INFO] [STDOUT]: [com.advancedcombat.crafting.RecipeHelper:addRecipe:24]: recipe count: 24inecraftFormatting
+[02:38:56] [Client thread/INFO] [STDOUT]: [com.advancedcombat.crafting.RecipeHelper:addRecipe:24]: recipe count: 25inecraftFormatting
+[02:38:56] [Client thread/INFO] [STDOUT]: [com.advancedcombat.crafting.RecipeHelper:addRecipe:24]: recipe count: 26inecraftFormatting
+[02:38:56] [Client thread/INFO] [STDOUT]: [com.advancedcombat.crafting.RecipeHelper:addRecipe:24]: recipe count: 27inecraftFormatting
+[02:38:56] [Client thread/INFO] [STDOUT]: [com.advancedcombat.crafting.RecipeHelper:addRecipe:24]: recipe count: 28inecraftFormatting
+[02:38:56] [Client thread/INFO] [STDOUT]: [com.advancedcombat.crafting.RecipeHelper:addRecipe:24]: recipe count: 29inecraftFormatting
+[02:38:56] [Client thread/INFO] [STDOUT]: [com.advancedcombat.crafting.RecipeHelper:addRecipe:24]: recipe count: 30inecraftFormatting
+[02:38:56] [Client thread/INFO] [STDOUT]: [com.advancedcombat.crafting.RecipeHelper:addRecipe:24]: recipe count: 31inecraftFormatting
+[02:38:56] [Client thread/INFO] [STDOUT]: [com.advancedcombat.crafting.RecipeHelper:addRecipe:24]: recipe count: 32inecraftFormatting
+[02:38:56] [Client thread/INFO] [STDOUT]: [com.advancedcombat.crafting.RecipeHelper:addRecipe:24]: recipe count: 33inecraftFormatting
+[02:38:56] [Client thread/INFO] [STDOUT]: [com.advancedcombat.crafting.RecipeHelper:addRecipe:24]: recipe count: 34inecraftFormatting
+[02:38:56] [Client thread/INFO] [STDOUT]: [com.advancedcombat.crafting.RecipeHelper:addRecipe:24]: recipe count: 35inecraftFormatting
+[02:38:56] [Client thread/INFO] [STDOUT]: [com.advancedcombat.crafting.RecipeHelper:addRecipe:24]: recipe count: 36inecraftFormatting
+[02:38:56] [Client thread/INFO] [STDOUT]: [com.advancedcombat.crafting.RecipeHelper:addRecipe:24]: recipe count: 37inecraftFormatting
+[02:38:56] [Client thread/INFO] [STDOUT]: [com.advancedcombat.crafting.RecipeHelper:addRecipe:24]: recipe count: 38inecraftFormatting
+[02:38:56] [Client thread/INFO] [STDOUT]: [com.advancedcombat.crafting.RecipeHelper:addRecipe:24]: recipe count: 39inecraftFormatting
+[02:38:56] [Client thread/INFO] [STDOUT]: [com.advancedcombat.crafting.RecipeHelper:addRecipe:24]: recipe count: 40inecraftFormatting
+[02:38:56] [Client thread/INFO] [STDOUT]: [com.advancedcombat.crafting.RecipeHelper:addRecipe:24]: recipe count: 41inecraftFormatting
+[02:38:56] [Client thread/INFO] [STDOUT]: [com.advancedcombat.crafting.RecipeHelper:addRecipe:24]: recipe count: 42inecraftFormatting
+[02:38:56] [Client thread/INFO] [STDOUT]: [com.advancedcombat.crafting.RecipeHelper:addRecipe:24]: recipe count: 43inecraftFormatting
+[02:38:56] [Client thread/INFO] [STDOUT]: [com.advancedcombat.crafting.RecipeHelper:addRecipe:24]: recipe count: 44inecraftFormatting
+[02:38:56] [Client thread/INFO] [STDOUT]: [com.advancedcombat.crafting.RecipeHelper:addRecipe:24]: recipe count: 45inecraftFormatting
+[02:38:56] [Client thread/INFO] [STDOUT]: [com.advancedcombat.crafting.RecipeHelper:addRecipe:24]: recipe count: 46inecraftFormatting
+[02:38:56] [Client thread/INFO] [STDOUT]: [com.advancedcombat.crafting.RecipeHelper:addRecipe:24]: recipe count: 47inecraftFormatting
+[02:38:56] [Client thread/INFO] [STDOUT]: [com.advancedcombat.crafting.RecipeHelper:addRecipe:24]: recipe count: 48inecraftFormatting
+[02:38:56] [Client thread/INFO] [STDOUT]: [com.advancedcombat.crafting.RecipeHelper:addRecipe:24]: recipe count: 49inecraftFormatting
+[02:38:56] [Client thread/INFO] [STDOUT]: [com.advancedcombat.crafting.RecipeHelper:addRecipe:24]: recipe count: 50inecraftFormatting
+[02:38:56] [Client thread/INFO] [STDOUT]: [com.advancedcombat.crafting.RecipeHelper:addRecipe:24]: recipe count: 51inecraftFormatting
+[02:38:56] [Client thread/INFO] [STDOUT]: [com.advancedcombat.crafting.RecipeHelper:addRecipe:24]: recipe count: 52inecraftFormatting
+[02:38:56] [Client thread/INFO] [STDOUT]: [com.advancedcombat.crafting.RecipeHelper:addRecipe:24]: recipe count: 53inecraftFormatting
+[02:38:56] [Client thread/INFO] [STDOUT]: [com.advancedcombat.crafting.RecipeHelper:addRecipe:24]: recipe count: 54inecraftFormatting
+[02:38:56] [Client thread/INFO] [STDOUT]: [com.advancedcombat.crafting.RecipeHelper:addRecipe:24]: recipe count: 55inecraftFormatting
+[02:38:56] [Client thread/INFO] [STDOUT]: [com.advancedcombat.crafting.RecipeHelper:addRecipe:24]: recipe count: 56inecraftFormatting
+[02:38:56] [Client thread/INFO] [STDOUT]: [com.advancedcombat.crafting.RecipeHelper:addRecipe:24]: recipe count: 57inecraftFormatting
+[02:38:56] [Client thread/INFO] [STDOUT]: [com.advancedcombat.crafting.RecipeHelper:addRecipe:24]: recipe count: 58inecraftFormatting
+[02:38:56] [Client thread/INFO] [STDOUT]: [com.advancedcombat.crafting.RecipeHelper:addRecipe:24]: recipe count: 59inecraftFormatting
+[02:38:56] [Client thread/INFO] [STDOUT]: [com.advancedcombat.crafting.RecipeHelper:addRecipe:24]: recipe count: 60inecraftFormatting
+[02:38:56] [Client thread/INFO] [STDOUT]: [com.advancedcombat.crafting.RecipeHelper:addRecipe:24]: recipe count: 61inecraftFormatting
+[02:38:56] [Client thread/INFO] [STDOUT]: [com.advancedcombat.crafting.RecipeHelper:addRecipe:24]: recipe count: 62inecraftFormatting
+[02:38:56] [Client thread/INFO] [STDOUT]: [com.advancedcombat.crafting.RecipeHelper:addRecipe:24]: recipe count: 63inecraftFormatting
+[02:38:56] [Client thread/INFO] [STDOUT]: [com.advancedcombat.crafting.RecipeHelper:addRecipe:24]: recipe count: 64inecraftFormatting
+[02:38:56] [Client thread/INFO] [STDOUT]: [com.advancedcombat.crafting.RecipeHelper:addRecipe:24]: recipe count: 65inecraftFormatting
+[02:38:56] [Client thread/INFO] [STDOUT]: [com.advancedcombat.crafting.RecipeHelper:addRecipe:24]: recipe count: 66inecraftFormatting
+[02:38:56] [Client thread/INFO] [STDOUT]: [com.advancedcombat.crafting.RecipeHelper:addRecipe:24]: recipe count: 67inecraftFormatting
+[02:38:56] [Client thread/INFO] [STDOUT]: [com.advancedcombat.crafting.RecipeHelper:addRecipe:24]: recipe count: 68inecraftFormatting
+[02:38:56] [Client thread/INFO] [STDOUT]: [com.advancedcombat.crafting.RecipeHelper:addRecipe:24]: recipe count: 69inecraftFormatting
+[02:38:56] [Client thread/INFO] [STDOUT]: [com.advancedcombat.crafting.RecipeHelper:addRecipe:24]: recipe count: 70inecraftFormatting
+[02:38:56] [Client thread/INFO] [STDOUT]: [com.advancedcombat.crafting.RecipeHelper:addRecipe:24]: recipe count: 71inecraftFormatting
+[02:38:56] [Client thread/INFO] [STDOUT]: [com.advancedcombat.crafting.RecipeHelper:addRecipe:24]: recipe count: 72inecraftFormatting
+[02:38:56] [Client thread/INFO] [STDOUT]: [com.advancedcombat.crafting.RecipeHelper:addRecipe:24]: recipe count: 73inecraftFormatting
+[02:38:56] [Client thread/INFO] [STDOUT]: [com.advancedcombat.crafting.RecipeHelper:addRecipe:24]: recipe count: 74inecraftFormatting
+[02:38:56] [Client thread/INFO] [STDOUT]: [com.advancedcombat.crafting.RecipeHelper:addRecipe:24]: recipe count: 75inecraftFormatting
+[02:38:56] [Client thread/INFO] [STDOUT]: [com.advancedcombat.crafting.RecipeHelper:addRecipe:24]: recipe count: 76inecraftFormatting
+[02:38:56] [Client thread/INFO] [STDOUT]: [com.advancedcombat.crafting.RecipeHelper:addRecipe:24]: recipe count: 77inecraftFormatting
+[02:38:56] [Client thread/INFO] [STDOUT]: [com.advancedcombat.crafting.RecipeHelper:addRecipe:24]: recipe count: 78inecraftFormatting
+[02:38:56] [Client thread/INFO] [STDOUT]: [com.advancedcombat.crafting.RecipeHelper:addRecipe:24]: recipe count: 79inecraftFormatting
+[02:38:56] [Client thread/INFO] [STDOUT]: [com.advancedcombat.crafting.RecipeHelper:addRecipe:24]: recipe count: 80inecraftFormatting
+[02:38:56] [Client thread/INFO] [STDOUT]: [com.advancedcombat.crafting.RecipeHelper:addRecipe:24]: recipe count: 81inecraftFormatting
+[02:38:56] [Client thread/INFO] [STDOUT]: [com.advancedcombat.crafting.RecipeHelper:addRecipe:24]: recipe count: 82inecraftFormatting
+[02:38:56] [Client thread/INFO] [STDOUT]: [com.advancedcombat.crafting.RecipeHelper:addRecipe:24]: recipe count: 83inecraftFormatting
+[02:38:56] [Client thread/INFO] [STDOUT]: [com.advancedcombat.crafting.RecipeHelper:addRecipe:24]: recipe count: 84inecraftFormatting
+[02:38:56] [Client thread/INFO] [STDOUT]: [com.advancedcombat.crafting.RecipeHelper:addRecipe:24]: recipe count: 85inecraftFormatting
+[02:38:56] [Client thread/INFO] [STDOUT]: [com.advancedcombat.crafting.RecipeHelper:addRecipe:24]: recipe count: 86inecraftFormatting
+[02:38:56] [Client thread/INFO] [STDOUT]: [com.advancedcombat.crafting.RecipeHelper:addRecipe:24]: recipe count: 87inecraftFormatting
+[02:38:56] [Client thread/INFO] [STDOUT]: [com.advancedcombat.crafting.RecipeHelper:addRecipe:24]: recipe count: 88inecraftFormatting
+[02:38:56] [Client thread/INFO] [STDOUT]: [com.advancedcombat.crafting.RecipeHelper:addRecipe:24]: recipe count: 89inecraftFormatting
+[02:38:56] [Client thread/INFO] [STDOUT]: [com.advancedcombat.crafting.RecipeHelper:addRecipe:24]: recipe count: 90inecraftFormatting
+[02:38:56] [Client thread/INFO] [STDOUT]: [com.advancedcombat.crafting.RecipeHelper:addRecipe:24]: recipe count: 91inecraftFormatting
+[02:38:56] [Client thread/INFO] [STDOUT]: [com.advancedcombat.crafting.RecipeHelper:addRecipe:24]: recipe count: 92inecraftFormatting
+[02:38:56] [Client thread/INFO] [STDOUT]: [com.advancedcombat.crafting.RecipeHelper:addRecipe:24]: recipe count: 93inecraftFormatting
+[02:38:56] [Client thread/INFO] [STDOUT]: [com.advancedcombat.crafting.RecipeHelper:addRecipe:24]: recipe count: 94inecraftFormatting
+[02:38:56] [Client thread/INFO] [STDOUT]: [com.advancedcombat.crafting.RecipeHelper:addRecipe:24]: recipe count: 95inecraftFormatting
+[02:38:56] [Client thread/INFO] [STDOUT]: [com.advancedcombat.crafting.RecipeHelper:addRecipe:24]: recipe count: 96inecraftFormatting
+[02:38:56] [Client thread/INFO] [STDOUT]: [com.advancedcombat.crafting.RecipeHelper:addRecipe:24]: recipe count: 97inecraftFormatting
+[02:38:56] [Client thread/INFO] [STDOUT]: [com.advancedcombat.crafting.RecipeHelper:addRecipe:24]: recipe count: 98inecraftFormatting
+[02:38:56] [Client thread/INFO] [STDOUT]: [com.advancedcombat.crafting.RecipeHelper:addRecipe:24]: recipe count: 99inecraftFormatting
+[02:38:56] [Client thread/INFO] [STDOUT]: [com.advancedcombat.crafting.RecipeHelper:addRecipe:24]: recipe count: 100inecraftFormatting
+[02:38:56] [Client thread/INFO] [STDOUT]: [com.advancedcombat.crafting.RecipeHelper:addRecipe:24]: recipe count: 101inecraftFormatting
+[02:38:56] [Client thread/INFO] [STDOUT]: [com.advancedcombat.crafting.RecipeHelper:addRecipe:24]: recipe count: 102inecraftFormatting
+[02:38:56] [Client thread/INFO] [STDOUT]: [com.advancedcombat.crafting.RecipeHelper:addRecipe:24]: recipe count: 103inecraftFormatting
+[02:38:56] [Client thread/INFO] [STDOUT]: [com.advancedcombat.crafting.RecipeHelper:addRecipe:24]: recipe count: 104inecraftFormatting
+[02:38:56] [Client thread/INFO] [STDOUT]: [com.advancedcombat.crafting.RecipeHelper:addRecipe:24]: recipe count: 105inecraftFormatting
+[02:38:56] [Client thread/INFO] [STDOUT]: [com.advancedcombat.crafting.RecipeHelper:addRecipe:24]: recipe count: 106inecraftFormatting
+[02:38:56] [Client thread/INFO] [STDOUT]: [com.advancedcombat.crafting.RecipeHelper:addRecipe:24]: recipe count: 107inecraftFormatting
+[02:38:56] [Client thread/INFO] [STDOUT]: [com.advancedcombat.crafting.RecipeHelper:addRecipe:24]: recipe count: 108inecraftFormatting
+[02:38:56] [Client thread/INFO] [STDOUT]: [com.advancedcombat.crafting.RecipeHelper:addRecipe:24]: recipe count: 109inecraftFormatting
+[02:38:56] [Client thread/INFO] [STDOUT]: [com.advancedcombat.crafting.RecipeHelper:addRecipe:24]: recipe count: 110inecraftFormatting
+[02:38:56] [Client thread/INFO] [STDOUT]: [com.advancedcombat.crafting.RecipeHelper:addRecipe:24]: recipe count: 111inecraftFormatting
+[02:38:56] [Client thread/INFO] [STDOUT]: [com.advancedcombat.crafting.RecipeHelper:addRecipe:24]: recipe count: 112inecraftFormatting
+[02:38:56] [Client thread/INFO] [STDOUT]: [com.advancedcombat.crafting.RecipeHelper:addRecipe:24]: recipe count: 113inecraftFormatting
+[02:38:56] [Client thread/INFO] [STDOUT]: [com.advancedcombat.crafting.RecipeHelper:addRecipe:24]: recipe count: 114inecraftFormatting
+[02:38:56] [Client thread/INFO] [STDOUT]: [com.advancedcombat.crafting.RecipeHelper:addRecipe:24]: recipe count: 115inecraftFormatting
+[02:38:56] [Client thread/INFO] [STDOUT]: [com.advancedcombat.crafting.RecipeHelper:addRecipe:24]: recipe count: 116inecraftFormatting
+[02:38:56] [Client thread/INFO] [STDOUT]: [com.advancedcombat.crafting.RecipeHelper:addRecipe:24]: recipe count: 117inecraftFormatting
+[02:38:56] [Client thread/INFO] [STDOUT]: [com.advancedcombat.crafting.RecipeHelper:addRecipe:24]: recipe count: 118inecraftFormatting
+[02:38:56] [Client thread/INFO] [STDOUT]: [com.advancedcombat.crafting.RecipeHelper:addRecipe:24]: recipe count: 119inecraftFormatting
+[02:38:56] [Client thread/INFO] [STDOUT]: [com.advancedcombat.crafting.RecipeHelper:addRecipe:24]: recipe count: 120inecraftFormatting
+[02:38:56] [Client thread/INFO] [STDOUT]: [com.advancedcombat.crafting.RecipeHelper:addRecipe:24]: recipe count: 121inecraftFormatting
+[02:38:56] [Client thread/INFO] [STDOUT]: [com.advancedcombat.crafting.RecipeHelper:addRecipe:24]: recipe count: 122inecraftFormatting
+[02:38:56] [Client thread/INFO] [STDOUT]: [com.advancedcombat.crafting.RecipeHelper:addRecipe:24]: recipe count: 123inecraftFormatting
+[02:38:56] [Client thread/INFO] [STDOUT]: [com.advancedcombat.crafting.RecipeHelper:addRecipe:24]: recipe count: 124inecraftFormatting
+[02:38:56] [Client thread/INFO] [STDOUT]: [com.advancedcombat.crafting.RecipeHelper:addRecipe:24]: recipe count: 125inecraftFormatting
+[02:38:56] [Client thread/INFO] [Advanced Combat]: Recipes registered.inecraftFormatting
+[02:38:56] [Client thread/INFO] [FML]: Applying holder lookupsinecraftFormatting
+[02:38:56] [Client thread/INFO] [FML]: Holder lookups appliedinecraftFormatting
+[02:38:56] [Client thread/INFO] [jei]: Created: 256x128 textures-atlasinecraftFormatting
+[02:38:56] [Client thread/INFO] [FML]: Injecting itemstacksinecraftFormatting
+[02:38:56] [Client thread/INFO] [FML]: Itemstack injection completeinecraftFormatting
+[02:38:56] [Client thread/INFO] [jei]: Starting JEI...inecraftFormatting
+[02:38:56] [Client thread/INFO] [jei]: Registering recipe categories...inecraftFormatting
+[02:38:56] [Client thread/INFO] [jei]: Registering recipe categories took 24.42 msinecraftFormatting
+[02:38:56] [Client thread/INFO] [jei]: Registering mod plugins...inecraftFormatting
+[02:38:56] [Client thread/INFO] [Advanced Combat]: JEI integration complete.inecraftFormatting
+[02:38:56] [Client thread/INFO] [jei]: Registering mod plugins took 202.9 msinecraftFormatting
+[02:38:56] [Client thread/INFO] [jei]: Building recipe registry...inecraftFormatting
+[02:38:56] [Client thread/INFO] [jei]: Building recipe registry took 147.6 msinecraftFormatting
+[02:38:56] [Client thread/INFO] [jei]: Building ingredient list...inecraftFormatting
+[02:38:56] [Client thread/INFO] [jei]: Building ingredient list took 24.77 msinecraftFormatting
+[02:38:56] [Client thread/INFO] [jei]: Building ingredient filter...inecraftFormatting
+[02:38:56] [Client thread/INFO] [jei]: Building ingredient filter took 131.4 msinecraftFormatting
+[02:38:56] [Client thread/INFO] [jei]: Building bookmarks...inecraftFormatting
+[02:38:56] [Client thread/INFO] [jei]: Building bookmarks took 9.791 msinecraftFormatting
+[02:38:56] [Client thread/INFO] [jei]: Building runtime...inecraftFormatting
+[02:38:57] [Client thread/INFO] [jei]: Building runtime took 84.22 msinecraftFormatting
+[02:38:57] [Client thread/INFO] [jei]: Optimizing memory usage...inecraftFormatting
+[02:38:57] [Client thread/INFO] [jei]: Optimizing memory usage took 40.74 msinecraftFormatting
+[02:38:57] [Client thread/INFO] [jei]: Starting JEI took 837.8 msinecraftFormatting
+[02:38:57] [Client thread/INFO] [FML]: Forge Mod Loader has successfully loaded 6 modsinecraftFormatting
+[02:38:57] [Client thread/WARN] [net.minecraft.client.settings.GameSettings]: Skipping bad option: lastServer:inecraftFormatting
+[02:38:57] [Client thread/INFO] [com.mojang.text2speech.NarratorWindows]: Narrator library for x64 successfully loadedinecraftFormatting
+[02:38:58] [Realms Notification Availability checker #1/INFO] [com.mojang.realmsclient.client.RealmsClient]: Could not authorize you against Realms server: Invalid session idinecraftFormatting
+[02:39:04] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Starting integrated minecraft server version 1.12.2inecraftFormatting
+[02:39:04] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Generating keypairinecraftFormatting
+[02:39:04] [Server thread/INFO] [FML]: Injecting existing registry data into this server instanceinecraftFormatting
+[02:39:04] [Server thread/INFO] [FML]: Applying holder lookupsinecraftFormatting
+[02:39:04] [Server thread/INFO] [FML]: Holder lookups appliedinecraftFormatting
+[02:39:04] [Server thread/INFO] [FML]: Loading dimension 0 (New World) (net.minecraft.server.integrated.IntegratedServer@6542be49)inecraftFormatting
+[02:39:04] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 488 advancementsinecraftFormatting
+[02:39:04] [Server thread/INFO] [FML]: Loading dimension -1 (New World) (net.minecraft.server.integrated.IntegratedServer@6542be49)inecraftFormatting
+[02:39:04] [Server thread/INFO] [FML]: Loading dimension 1 (New World) (net.minecraft.server.integrated.IntegratedServer@6542be49)inecraftFormatting
+[02:39:04] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0inecraftFormatting
+[02:39:05] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 72%inecraftFormatting
+[02:39:06] [Server thread/INFO] [FML]: Unloading dimension -1inecraftFormatting
+[02:39:06] [Server thread/INFO] [FML]: Unloading dimension 1inecraftFormatting
+[02:39:06] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Changing view distance to 12, from 10inecraftFormatting
+[02:39:07] [Netty Local Client IO #0/INFO] [FML]: Server protocol version 2inecraftFormatting
+[02:39:07] [Netty Server IO #1/INFO] [FML]: Client protocol version 2inecraftFormatting
+[02:39:07] [Netty Server IO #1/INFO] [FML]: Client attempting to join with 6 mods : minecraft@1.12.2,FML@8.0.99.99,forge@14.23.5.2816,advancedcombat@1.1.2,mcp@9.42,jei@4.16.1.302inecraftFormatting
+[02:39:07] [Netty Local Client IO #0/INFO] [FML]: [Netty Local Client IO #0] Client side modded connection establishedinecraftFormatting
+[02:39:07] [Server thread/INFO] [FML]: [Server thread] Server side modded connection establishedinecraftFormatting
+[02:39:07] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Player796[local:E:1d63fec8] logged in with entity id 324 at (131.7527267530145, 78.84861463224426, 112.42883185018886)inecraftFormatting
+[02:39:07] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Player796 joined the gameinecraftFormatting
+[02:39:08] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Saving and pausing game...inecraftFormatting
+[02:39:08] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World'/overworldinecraftFormatting
+[02:39:19] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [Player796: Set own game mode to Survival Mode]inecraftFormatting
+[02:39:19] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] Your game mode has been updated to Survival ModeinecraftFormatting
+[02:41:58] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [Player796: Given [Thorns Upgrade] * 1 to Player796]inecraftFormatting
+[02:41:58] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] Given [Thorns Upgrade] * 1 to Player796inecraftFormatting
+[02:42:00] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [Player796: Given [Unbreaking Upgrade] * 1 to Player796]inecraftFormatting
+[02:42:00] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] Given [Unbreaking Upgrade] * 1 to Player796inecraftFormatting
+[02:42:11] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [Player796: Set own game mode to Creative Mode]inecraftFormatting
+[02:42:11] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] Your game mode has been updated to Creative ModeinecraftFormatting
+[02:46:00] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Saving and pausing game...inecraftFormatting
+[02:46:00] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World'/overworldinecraftFormatting
+[02:46:00] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping serverinecraftFormatting
+[02:46:00] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving playersinecraftFormatting
+[02:46:00] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Player796 lost connection: DisconnectedinecraftFormatting
+[02:46:00] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Player796 left the gameinecraftFormatting
+[02:46:00] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Stopping singleplayer server as player logged outinecraftFormatting
+[02:46:00] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worldsinecraftFormatting
+[02:46:00] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World'/overworldinecraftFormatting
+[02:46:00] [Server thread/INFO] [FML]: Unloading dimension 0inecraftFormatting
+[02:46:01] [Server thread/INFO] [FML]: Applying holder lookupsinecraftFormatting
+[02:46:01] [Server thread/INFO] [FML]: Holder lookups appliedinecraftFormatting
+[02:46:02] [Client thread/INFO] [net.minecraft.client.Minecraft]: Stopping!inecraftFormatting
+[02:46:02] [Client thread/INFO] [net.minecraft.client.audio.SoundManager]: SoundSystem shutting down...inecraftFormatting
+[02:46:02] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Author: Paul Lamb, www.paulscode.cominecraftFormatting

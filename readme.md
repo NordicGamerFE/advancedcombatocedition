@@ -8,5 +8,5 @@ This branch is for the latest version of the mod.
 
 This Open Source project (see [License](https://github.com/sblectric/AdvancedCombat/blob/master/license.md)) is a mod for [Minecraft](http://www.minecraft.net/), a game by [Mojang AB](http://mojang.com/).
 
-[Fork Project on CurseForge](https://www.curseforge.com/minecraft/mc-mods/advanced-combat-oc-edition)
+[Fork Project on CurseForge](https://www.curseforge.com/minecraft/mc-mods/advanced-combat-oc-edition)<br>
 [Original Project on CurseForge](https://www.curseforge.com/minecraft/mc-mods/advanced-combat)
